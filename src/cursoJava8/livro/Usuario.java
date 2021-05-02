@@ -1,4 +1,4 @@
-package cursoJava8.capitulo2;
+package cursoJava8.livro;
 
 class Usuario {
 
